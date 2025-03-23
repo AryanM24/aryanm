@@ -82,20 +82,6 @@ const HeroSection = forwardRef<HTMLElement, HeroSectionProps>(({ contactRef, scr
                 Download Resume
               </Button>
               
-              <Button
-                asChild
-                variant="outline"
-                className="rounded-full h-12 px-6 border-white/20 hover:border-white/40 bg-white/5 hover:bg-white/10 backdrop-blur-sm transition-all duration-300 text-base"
-              >
-                <Link 
-                  href="https://github.com/AryanM24"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <Github className="mr-2 h-5 w-5" />
-                  GitHub
-                </Link>
-              </Button>
             </motion.div>
           </div>
         </motion.div>
