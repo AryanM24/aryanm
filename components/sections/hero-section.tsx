@@ -88,7 +88,7 @@ const HeroSection = forwardRef<HTMLElement, HeroSectionProps>(({ contactRef, scr
                 className="rounded-full h-12 px-6 border-white/20 hover:border-white/40 bg-white/5 hover:bg-white/10 backdrop-blur-sm transition-all duration-300 text-base"
               >
                 <Link 
-                  href="https://github.com"
+                  href="https://github.com/AryanM24"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

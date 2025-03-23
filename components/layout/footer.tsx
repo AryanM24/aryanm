@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="py-6">
       <div className="container flex flex-col items-center justify-center gap-4 text-center">
         <div className="flex gap-4">
-          <Link href="https://github.com" className="text-muted-foreground hover:text-foreground transition-colors">
+          <Link href="https://github.com/AryanM24" className="text-muted-foreground hover:text-foreground transition-colors">
             <Github className="h-5 w-5" />
             <span className="sr-only">GitHub</span>
           </Link>

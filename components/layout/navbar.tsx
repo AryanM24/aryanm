@@ -38,7 +38,7 @@ export default function Navbar({ activeSection, scrollToSection, sections }: Nav
             className="rounded-full border border-white/20 hover:border-white/40 hover:bg-white/5 transition-all duration-300"
           >
             <Link
-              href="https://github.com"
+              href="https://github.com/AryanM24"
               target="_blank"
               rel="noopener noreferrer"
             >
