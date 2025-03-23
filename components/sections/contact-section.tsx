@@ -21,11 +21,6 @@ const ContactSection = forwardRef<HTMLElement>((props, ref) => {
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
         >
-          <p className="text-muted-foreground max-w-2xl mx-auto">
-            I'm interested in freelance opportunities – especially ambitious or large projects. However, if you have
-            other requests or questions, don't hesitate to contact me using the information below.
-          </p>
-
           <div className="flex flex-wrap justify-center gap-8 mt-8">
             <ContactItem icon={MapPin} title="Location" value="Edison, NJ" />
 

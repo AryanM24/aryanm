@@ -65,8 +65,7 @@ const HeroSection = forwardRef<HTMLElement, HeroSectionProps>(({ contactRef, scr
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.3 }}
             >
-              I build exceptional and accessible digital experiences for the web. 
-              Focused on creating clean, user-friendly interfaces with modern technologies.
+              Im a driven high school student interested in computer science, technology, and business and finance, seeking research, internships, and job opportunities to innovate, develop skills, and make a meaningful impact.
             </motion.p>
             
             <motion.div
