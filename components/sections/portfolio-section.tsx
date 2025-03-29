@@ -62,6 +62,14 @@ const PortfolioSection = forwardRef<HTMLElement>((props, ref) => {
       description: "Interactive website for an organization that helps the environment.",
       github: "https://github.com/AryanM24/recycled-relief",
       demo: "https://recycled-relief.vercel.app/"
+    },
+    {
+      title: "Classic Games Hub",
+      category: "React Game",
+      image: "/placeholder.svg?height=300&width=400",
+      description: "Play your favorite classic games with modern features and track your high scores",
+      github: "https://github.com/AryanM24/games-app",
+      demo: "https://games-app-pi.vercel.app/"
     }
   ]
 
